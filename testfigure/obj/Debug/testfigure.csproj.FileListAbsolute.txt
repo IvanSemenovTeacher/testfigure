@@ -1,0 +1,6 @@
+C:\Users\Преподаватель\Documents\SharpDevelop Projects\testfigure\testfigure\obj\Debug\testfigure.csprojResolveAssemblyReference.cache
+C:\Users\Преподаватель\Documents\SharpDevelop Projects\testfigure\testfigure\bin\Debug\testfigure.exe.config
+C:\Users\Преподаватель\Documents\SharpDevelop Projects\testfigure\testfigure\bin\Debug\testfigure.exe
+C:\Users\Преподаватель\Documents\SharpDevelop Projects\testfigure\testfigure\bin\Debug\testfigure.pdb
+C:\Users\Преподаватель\Documents\SharpDevelop Projects\testfigure\testfigure\obj\Debug\testfigure.exe
+C:\Users\Преподаватель\Documents\SharpDevelop Projects\testfigure\testfigure\obj\Debug\testfigure.pdb
